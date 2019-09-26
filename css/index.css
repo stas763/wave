@@ -3,6 +3,13 @@
   padding: 0;
 }
 
+h1 {
+  font-size: 500%;
+  margin-top: 20%;
+  font-weight: 100;
+  text-align: center;
+}
+
 section {
   position: relative;
   width: 100%;
@@ -71,4 +78,9 @@ section .wave.wave_4 {
   100% {
     background-position-x: -1000px;
   }
+}
+
+embed {
+  margin-left: auto;
+  margin-right: auto;
 }
